@@ -1,9 +1,9 @@
 from django.shortcuts import render
 from selenium import webdriver
-from django.conf import settings
-import os
+from webdriver_manager.chrome import ChromeDriverManager
 
-driver = webdriver.Chrome(executable_path=os.path.join(settings.BASE_DIR,'chromedriver_win32/chromedriver.exe'))
+driver = webdriver.Chrome(ChromeDriverManager().install())
+
 
 def get_html_content(request):
 
