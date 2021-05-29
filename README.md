@@ -56,17 +56,17 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+* [Pythonanywhere](https://akassh09.pythonanywhere.com/) 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Django](https://www.djangoproject.com/) - The web framework used
+* [Selenium](https://www.selenium.dev) - Tools used
+* [Pythonanywhere](https://pythonanywhere.com/) - Deployment
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -74,7 +74,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Akash Dutta** - *Initial work* - [Akassh09](https://github.com/akassh09)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -84,6 +84,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks, Denis Ivy for the frontend design
+
